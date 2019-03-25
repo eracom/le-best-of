@@ -35,3 +35,22 @@ Jeux minimalistes dans le navigateur. Réalisé par les étudiants de la classe 
 https://eracom-gr451.github.io/letters/ ([voir le code](https://github.com/eracom-gr451/letters/))
 
 Une version modifiée du projet "Letters", créé par Nathan Meyer et Luca Reichenbach dans le cadre du projet "Canvas".
+
+## Font collections
+
+Collections de fontes libres rassemblées par la classe GR451 en novembre 2016.
+
+https://eracom-gr451.github.io/font-collections/
+
+## Exemples CSS et Javascript
+
+- https://eracom-gr361.github.io/exemples-javascript/
+- https://eracom-gr461.github.io/tutoriels-js/
+
+Et aussi:
+
+- https://github.com/eaa-imd/exemples-javascript
+- https://github.com/eaa-imd/tests-svg-js
+- https://github.com/eaa-imd/tests-svg
+- https://github.com/eaa-imd/css-layouts
+
