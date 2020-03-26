@@ -34,6 +34,7 @@ Diverses extensions ajoutant des fonctionnalités à WordPress:
 
 Et aussi, des choses utiles développées à l'EAA La Chaux-de-Fonds:
 
+- https://eaa-imd.github.io/designtools/
 - https://github.com/eaa-imd/exemples-javascript
 - https://github.com/eaa-imd/tests-svg-js
 - https://github.com/eaa-imd/tests-svg
