@@ -1,4 +1,4 @@
-# Le best of
+# Le best of 🎉
 
 Ce document regroupe des liens vers des projets de programmation / webdesign / codage réalisés dans le cadre des cours de l'Eracom.
 
