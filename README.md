@@ -2,8 +2,15 @@
 
 Ce document regroupe des liens vers des projets de programmation / webdesign / codage réalisés dans le cadre des cours de l'Eracom.
 
+## Travaux de diplôme
+
+- *[Le football américain](https://eracom.github.io/dipl-mparisod-2019/)*, travail de diplôme de Marius Parisod, 2019
+- *[Au sujet de la dépression](https://eracom.github.io/dipl-ljuillerat-2019/)*, travail de diplôme de Loann Juillerat, printemps 2019
+
 ## Workshops et projets
 
+- **[Drawing tool](https://eracom.github.io/drawingtool-aina/)** by Aina Randriamboavonjy, 2018
+- **[Drawing Tool](https://eracom.github.io/drawingtool-calvin/)** by Calvin Herizo, 2018
 - **Workshop outils d'édition hybrides** (octobre 2018) : https://eracom.github.io/workshop-outils-hybrides-2018/
 - **Oblique Strategies** (juin 2018) : https://oblique-strategies.github.io/ ([voir le code](https://github.com/oblique-strategies/oblique-strategies.github.io))
 - **Workshop specimens hybrides** (novembre 2017) : https://eracom.github.io/specimen-hybrides-GR441/
