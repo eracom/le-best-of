@@ -2,6 +2,10 @@
 
 Ce document regroupe des liens vers des projets de programmation / webdesign / codage réalisés dans le cadre des cours de l'Eracom.
 
+## Projets récents
+
+- **[LowTechFictions](https://lowtechfictions.eracom-pedagogique.ch)** - workshop ID391 avec Cassandre Poirier-Simon, mai 2020
+
 ## Travaux de diplôme
 
 - *[Le football américain](https://eracom.github.io/dipl-mparisod-2019/)*, travail de diplôme de Marius Parisod, 2019
