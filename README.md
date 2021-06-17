@@ -4,6 +4,8 @@ Ce document regroupe des liens vers des projets de programmation / webdesign / c
 
 ## Projets récents
 
+- **[Technolution](https://technolution.eracom-pedagogique.ch/)** - projet de recherche ID391 avec Anaïs Bloch, printemps 2021
+- **[Portes Ouvertes 2020](https://po.eracom.ch/)** - site des portes ouvertes virtuelles de 2020
 - **[LowTechFictions](https://lowtechfictions.eracom-pedagogique.ch)** - workshop ID391 avec Cassandre Poirier-Simon, mai 2020
 
 ## Travaux de diplôme
@@ -13,7 +15,7 @@ Ce document regroupe des liens vers des projets de programmation / webdesign / c
 
 ## Workshops et projets
 
-- **[Drawing tool](https://eracom.github.io/drawingtool-aina/)** by Aina Randriamboavonjy, 2018
+- **[Drawing Tool](https://eracom.github.io/drawingtool-aina/)** by Aina Randriamboavonjy, 2018
 - **[Drawing Tool](https://eracom.github.io/drawingtool-calvin/)** by Calvin Herizo, 2018
 - **[Workshop outils d'édition hybrides](https://eracom.github.io/workshop-outils-hybrides-2018/)** (octobre 2018)
 - **[Oblique Strategies](https://oblique-strategies.github.io/)** (juin 2018) : ([voir le code](https://github.com/oblique-strategies/oblique-strategies.github.io))
