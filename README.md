@@ -3,9 +3,9 @@
 Ce document regroupe des liens vers des projets de programmation / webdesign / codage réalisés dans le cadre des cours de l'Eracom.
 
 ## Projets récents
-- **[HACK // Transverse](https://hack.eracom.ch/)** - site accompagnant le 3e numéro du magazine des élèves de l'Eracom, printemps 2021.
+- **[HACK // Transverse](https://hack.eracom.ch/)** - site accompagnant le 3e numéro du magazine des élèves de l'Eracom, printemps 2021. ([voir le code](https://github.com/eracom/lab-magazine))
 - **[Technolution](https://technolution.eracom-pedagogique.ch/)** - projet de recherche ID391 avec Anaïs Bloch, printemps 2021
-- **[Portes Ouvertes 2020](https://po.eracom.ch/)** - site des portes ouvertes virtuelles de 2020, ID471 avec Chau-Uyen Mai et Adrien Cater
+- **[Portes Ouvertes 2020](https://po.eracom.ch/)** - site des portes ouvertes virtuelles de 2020, ID471 avec Chau-Uyen Mai et Adrien Cater. ([voir le code](https://github.com/eracom/eracom_po2020))
 - **[LowTechFictions](https://lowtechfictions.eracom-pedagogique.ch)** - workshop ID391 avec Cassandre Poirier-Simon, mai 2020
 
 ## Travaux de diplôme
