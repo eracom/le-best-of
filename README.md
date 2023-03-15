@@ -2,6 +2,11 @@
 
 Ce document regroupe des liens vers des projets de programmation / webdesign / codage réalisés dans le cadre des cours de l'Eracom.
 
+## Créations LAB 2022-2023
+
+- [http://code.eracom-pedagogique.ch/ShoeMuseum/](http://code.eracom-pedagogique.ch/ShoeMuseum/)
+
+
 ## Projets récents
 - **[liste portfolios ID301](https://github.com/eracom-id301/liste-portfolios-id301)** - sites portfolio ID301, automne 2021.
 - **[HACK // Transverse](https://hack.eracom.ch/)** - site accompagnant le 3e numéro du magazine des élèves de l'Eracom, printemps 2021. ([voir le code](https://github.com/eracom/lab-magazine))
