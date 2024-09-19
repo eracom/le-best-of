@@ -2,6 +2,10 @@
 
 Ce document regroupe des liens vers des projets de programmation / webdesign / codage réalisés dans le cadre des cours de l'Eracom.
 
+## Sélection salon des métiers
+
+- [https://code.eracom-pedagogique.ch/sites-web-sdm/](https://code.eracom-pedagogique.ch/sites-web-sdm/)
+
 ## Créations LAB 2022-2023
 
 - [http://code.eracom-pedagogique.ch/ShoeMuseum/](http://code.eracom-pedagogique.ch/ShoeMuseum/)
