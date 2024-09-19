@@ -8,7 +8,7 @@ Ce document regroupe des liens vers des projets de programmation / webdesign / c
 
 
 ## Projets récents
-- **[Workshop éditions hybrides](https://code.eracom-pedagogique.ch/workshop-editions-hybrides-2024/)**
+- **[Workshop éditions hybrides](https://code.eracom-pedagogique.ch/workshop-editions-hybrides-2024/)** -  workshop, automne 2024.
 - **[liste portfolios ID301](https://github.com/eracom-id301/liste-portfolios-id301)** - sites portfolio ID301, automne 2021.
 - **[HACK // Transverse](https://hack.eracom.ch/)** - site accompagnant le 3e numéro du magazine des élèves de l'Eracom, printemps 2021. ([voir le code](https://github.com/eracom/lab-magazine))
 - **[Technolution](https://technolution.eracom-pedagogique.ch/)** - projet de recherche ID391 avec Anaïs Bloch, printemps 2021
