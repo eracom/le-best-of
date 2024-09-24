@@ -8,8 +8,10 @@ Ce document regroupe des liens vers des projets de programmation / webdesign / c
 
 ## Créations LAB 2022-2023
 
-- [http://code.eracom-pedagogique.ch/ShoeMuseum/](http://code.eracom-pedagogique.ch/ShoeMuseum/)
-
+- [Shoe Museum](http://code.eracom-pedagogique.ch/ShoeMuseum/)
+- [Gate Festival](https://code.eracom-pedagogique.ch/lab05-gatesfestival/)
+- [Objet Culte: Le Bic](https://code.eracom-pedagogique.ch/LAB05-BIC/)
+- [Raster Festival](https://code.eracom-pedagogique.ch/LAB05-Raster-Festival/)
 
 ## Projets récents
 - **[Workshop éditions hybrides](https://code.eracom-pedagogique.ch/workshop-editions-hybrides-2024/)** -  workshop, automne 2024.
