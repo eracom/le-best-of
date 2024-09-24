@@ -11,6 +11,7 @@ Ce document regroupe des liens vers des projets de programmation / webdesign / c
 - [Shoe Museum](http://code.eracom-pedagogique.ch/ShoeMuseum/)
 - [Gate Festival](https://code.eracom-pedagogique.ch/lab05-gatesfestival/)
 - [Objet Culte: Le Bic](https://code.eracom-pedagogique.ch/LAB05-BIC/)
+- [Objet Culte: Alu13](https://code.eracom-pedagogique.ch/LAB05-ALU13/)
 - [Raster Festival](https://code.eracom-pedagogique.ch/LAB05-Raster-Festival/)
 
 ## Projets récents
