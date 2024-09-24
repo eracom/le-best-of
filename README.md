@@ -10,6 +10,7 @@ Ce document regroupe des liens vers des projets de programmation / webdesign / c
 
 - [bAIby](https://eracom-id311.github.io/LAB-bAIby/) (thème: IA)
 - [TIRET](https://eracom-id311.github.io/LAB-bAIby/) (thème: Grand-mère)
+- [Cor](https://eracom-id311.github.io/LAB-Web-Cor/) "Site web de mode qui casse les codes"
 
 ## Créations LAB05 2022-2023
 
