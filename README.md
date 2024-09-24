@@ -6,7 +6,12 @@ Ce document regroupe des liens vers des projets de programmation / webdesign / c
 
 - [https://code.eracom-pedagogique.ch/sites-web-sdm/](https://code.eracom-pedagogique.ch/sites-web-sdm/)
 
-## Créations LAB 2022-2023
+## Créations LAB06 2022-2023
+
+- [bAIby](https://eracom-id311.github.io/LAB-bAIby/) (thème: IA)
+- [TIRET](https://eracom-id311.github.io/LAB-bAIby/) (thème: Grand-mère)
+
+## Créations LAB05 2022-2023
 
 - [Shoe Museum](http://code.eracom-pedagogique.ch/ShoeMuseum/)
 - [Gate Festival](https://code.eracom-pedagogique.ch/lab05-gatesfestival/)
