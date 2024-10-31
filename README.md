@@ -32,6 +32,8 @@ Ce document regroupe des liens vers des projets de programmation / webdesign / c
 
 ## Travaux de diplôme
 
+- *[Breakfast restaurant](https://code.eracom-pedagogique.ch/breakfast-restaurant/)*, travail de diplôme de Anaïs Polo, 2023
+- *[Dream For Dreaming](https://code.eracom-pedagogique.ch/dreamfordreaming/)*, travail de diplôme de Benjamin Vermot, 2023
 - *[Le football américain](https://eracom.github.io/dipl-mparisod-2019/)*, travail de diplôme de Marius Parisod, 2019
 - *[Au sujet de la dépression](https://eracom.github.io/dipl-ljuillerat-2019/)*, travail de diplôme de Loann Juillerat, printemps 2019
 
