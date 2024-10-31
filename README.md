@@ -8,6 +8,8 @@ Ce document regroupe des liens vers des projets de programmation / webdesign / c
 
 ## Créations LAB06 2022-2023
 
+- [Sizain](https://eracom-id311.github.io/LAB_Changins_sizain/) Site pour projet micro-entreprise de la HES Œnologie à Changins
+- [1 = 6](https://eracom-id311.github.io/Changins-1-6/) Site pour projet micro-entreprise de la HES Œnologie à Changins
 - [bAIby](https://eracom-id311.github.io/LAB-bAIby/) (thème: IA)
 - [TIRET](https://eracom-id311.github.io/LAB_WEB_GRANNY/) (thème: Grand-mère)
 - [Cor](https://eracom-id311.github.io/LAB-Web-Cor/) "Site web de mode qui casse les codes"
