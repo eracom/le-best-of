@@ -24,10 +24,11 @@ Ce document regroupe des liens vers des projets de programmation / webdesign / c
 
 ## Projets récents
 - **[Workshop éditions hybrides](https://code.eracom-pedagogique.ch/workshop-editions-hybrides-2024/)** -  workshop, automne 2024.
+- - **[Portes Ouvertes 2021](https://code.eracom-pedagogique.ch/portes-ouvertes-2021/)** - site des Portes Ouvertes de 2021, ID481 dans le cadre du LAB. ([voir le code](https://github.com/eracom/portes-ouvertes-2021))
 - **[liste portfolios ID301](https://github.com/eracom-id301/liste-portfolios-id301)** - sites portfolio ID301, automne 2021.
 - **[HACK // Transverse](https://hack.eracom.ch/)** - site accompagnant le 3e numéro du magazine des élèves de l'Eracom, printemps 2021. ([voir le code](https://github.com/eracom/lab-magazine))
 - **[Technolution](https://technolution.eracom-pedagogique.ch/)** - projet de recherche ID391 avec Anaïs Bloch, printemps 2021
-- **[Portes Ouvertes 2020](https://eracom-pedagogique.ch/PO20/)** - site des portes ouvertes virtuelles de 2020, ID471 avec Chau-Uyen Mai et Adrien Cater. ([voir le code](https://github.com/eracom/eracom_po2020))
+- **[Portes Ouvertes 2020](https://eracom-pedagogique.ch/PO20/)** - site des Portes Ouvertes virtuelles de 2020, ID471 avec Chau-Uyen Mai et Adrien Cater. ([voir le code](https://github.com/eracom/eracom_po2020))
 - **[LowTechFictions](https://lowtechfictions.eracom-pedagogique.ch)** - workshop ID391 avec Cassandre Poirier-Simon, mai 2020
 
 ## Travaux de diplôme
