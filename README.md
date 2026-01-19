@@ -8,7 +8,9 @@ Ce document regroupe des liens vers des projets de programmation / webdesign / c
 
 ## Sites web 2025-26
 
+- https://fontes.eracom-pedagogique.ch/
 - https://vitraxlia.ilanassuncao.ch/
+- https://sansplomb.ahtram.art/
 - https://readymag.website/u3330636369/5967095/ (Nespresso x Joanie Lemercier)
 - https://cms1.bartekola.com/
 - https://ericssonblaser.art/
@@ -19,6 +21,11 @@ Ce document regroupe des liens vers des projets de programmation / webdesign / c
 - https://25soundstoknow.medialens.ch/
 - https://cms-2.noeserravezza.ch/
 - https://jeux-iconique.nicolas-savoy.ch/ (25 jeux iconiques)
+- https://soho-studio.nohamcrelier.ch/
+- https://projet-cms-1.wileyg.ch/
+- https://solaires.medialens.ch/
+- https://projet-cms1.noeserravezza.ch/
+- https://readymag.website/u1360962924/5990696/ (Promotions 2026)
 
 ## Créations LAB06 2022-2023
 
