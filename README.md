@@ -6,6 +6,20 @@ Ce document regroupe des liens vers des projets de programmation / webdesign / c
 
 - [https://code.eracom-pedagogique.ch/sites-web-sdm/](https://code.eracom-pedagogique.ch/sites-web-sdm/)
 
+## Sites web 2025-26
+
+- https://vitraxlia.ilanassuncao.ch/
+- https://readymag.website/u3330636369/5967095/ (Nespresso x Joanie Lemercier)
+- https://cms1.bartekola.com/
+- https://ericssonblaser.art/
+- https://readymag.website/u2011707780/5967143/
+- https://readymag.website/u1302295043/5967132/ (Uniqlo x Vera Molnar)
+- https://typotheque.nohamcrelier.ch/
+- https://readymag.website/u1360962924/5980979/ (Les 7 contrastes de couleur)
+- https://25soundstoknow.medialens.ch/
+- https://cms-2.noeserravezza.ch/
+- https://jeux-iconique.nicolas-savoy.ch/ (25 jeux iconiques)
+
 ## Créations LAB06 2022-2023
 
 - [Sizain](https://eracom-id311.github.io/LAB_Changins_sizain/) Site pour projet micro-entreprise de la HES Œnologie à Changins
